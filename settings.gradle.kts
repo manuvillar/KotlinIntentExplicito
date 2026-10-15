@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = " Kotlin Intent Implicito"
+rootProject.name = " Kotlin Intent Explicito"
 include(":app")
